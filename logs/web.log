@@ -1,0 +1,12 @@
+{
+  "time": "2024-05-23T17:38:17.399350158-07:00",
+  "level": "ERROR",
+  "source": {
+    "function": "main.(*application).serverError",
+    "file": "/home/isacc/Documents/vs-code/golang/snippetbox/cmd/web/helpers.go",
+    "line": 13
+  },
+  "msg": "open ./ui/html/pages/home.tmpl: no such file or directory",
+  "method": "GET",
+  "uri": "/"
+}
