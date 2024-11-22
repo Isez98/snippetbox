@@ -1,2 +1,5 @@
 .env
 tls/
+node_modules/
+package.json
+package-lock.json
